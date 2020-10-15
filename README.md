@@ -1,4 +1,4 @@
-# My Unoriginal SHell
+# Mostly Useless SHell
 
 ## Why?
 Why not!
